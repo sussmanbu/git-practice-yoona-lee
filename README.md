@@ -3,7 +3,7 @@ README
 Yoona Lee
 1/30/2021
 
-## R Markdown
+## First R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
 for authoring HTML, PDF, and MS Word documents. For more details on
